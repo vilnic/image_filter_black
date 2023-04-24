@@ -11,4 +11,5 @@
 
 ## run script:
 
-    python image_filter_black.py <image>
+    source .venv/bin/activate
+    python image_filter_black.py -i <image>
